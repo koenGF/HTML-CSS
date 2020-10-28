@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="finished H2, added links">
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="minor improvements">
       <change beforePath="$PROJECT_DIR$/H02/artikel.html" beforeDir="false" afterPath="$PROJECT_DIR$/H02/artikel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603800895322</updated>
       <workItem from="1603800898818" duration="2328000" />
-      <workItem from="1603876671300" duration="3801000" />
+      <workItem from="1603876671300" duration="4104000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603880136370</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="minor improvements">
+      <created>1603880649318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603880649318</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,7 +113,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="moved files, added link to chapter 1 in index.html" />
     <MESSAGE value="finished H2, added links" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished H2, added links" />
+    <MESSAGE value="minor improvements" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor improvements" />
   </component>
   <component name="WindowStateProjectService">
     <state x="646" y="330" key="Github.ShareDialog" timestamp="1603801387603">
@@ -118,9 +125,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603880138756">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603880651745">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603880138756" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603880651745" />
   </component>
 </project>
