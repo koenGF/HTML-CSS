@@ -19,9 +19,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="H04 structure, H02 typos &amp; smaller images">
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="link to H04, deleted some unused files">
+      <change afterPath="$PROJECT_DIR$/H04/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/css/wilkens.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/img/elektriciteit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/img/wilkens_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/links.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H04/products.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H04/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +43,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -54,6 +63,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -71,7 +81,7 @@
       <updated>1603800895322</updated>
       <workItem from="1603800898818" duration="2328000" />
       <workItem from="1603876671300" duration="4347000" />
-      <workItem from="1603886315758" duration="4850000" />
+      <workItem from="1603886315758" duration="8201000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -115,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603894654394</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="link to H04, deleted some unused files">
+      <created>1603895092261</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603895092261</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +158,8 @@
     <MESSAGE value="minor changes" />
     <MESSAGE value="finished H3, added links" />
     <MESSAGE value="H04 structure, H02 typos &amp; smaller images" />
-    <option name="LAST_COMMIT_MESSAGE" value="H04 structure, H02 typos &amp; smaller images" />
+    <MESSAGE value="link to H04, deleted some unused files" />
+    <option name="LAST_COMMIT_MESSAGE" value="link to H04, deleted some unused files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="646" y="330" key="Github.ShareDialog" timestamp="1603801387603">
@@ -152,9 +170,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603894657286">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603895095800">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603894657286" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603895095800" />
   </component>
 </project>
