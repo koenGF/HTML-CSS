@@ -19,16 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="link to H04, deleted some unused files">
-      <change afterPath="$PROJECT_DIR$/H04/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/css/wilkens.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/img/elektriciteit.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/img/wilkens_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/links.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H04/products.html" afterDir="false" />
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="added some pages, started on css">
+      <change afterPath="$PROJECT_DIR$/H04/img/elektriciteit1024.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H04/css/wilkens.css" beforeDir="false" afterPath="$PROJECT_DIR$/H04/css/wilkens.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H04/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +75,8 @@
       <updated>1603800895322</updated>
       <workItem from="1603800898818" duration="2328000" />
       <workItem from="1603876671300" duration="4347000" />
-      <workItem from="1603886315758" duration="8201000" />
+      <workItem from="1603886315758" duration="8881000" />
+      <workItem from="1603962945884" duration="5563000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -132,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603895092261</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added some pages, started on css">
+      <created>1603898457837</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603898457837</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +161,8 @@
     <MESSAGE value="finished H3, added links" />
     <MESSAGE value="H04 structure, H02 typos &amp; smaller images" />
     <MESSAGE value="link to H04, deleted some unused files" />
-    <option name="LAST_COMMIT_MESSAGE" value="link to H04, deleted some unused files" />
+    <MESSAGE value="added some pages, started on css" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some pages, started on css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="646" y="330" key="Github.ShareDialog" timestamp="1603801387603">
@@ -170,9 +173,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603895095800">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603898460617">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603895095800" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603898460617" />
   </component>
 </project>
