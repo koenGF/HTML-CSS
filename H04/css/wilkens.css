@@ -9,13 +9,10 @@ div.wrapper {
     margin: auto;
 }
 
-img#header {
-    margin-bottom: 30px;
-}
-
 nav {
     background-color: black;
     padding: 10px;
+    margin-top: 30px;
 }
 
 nav a {
@@ -28,11 +25,14 @@ nav a {
 
 main {
     background-color: white;
+    display: inline-block;
 }
 article {
     float: left;
-    width: 49%;
+    width: 48%;
     margin-right: 2%;
+    margin-left: 1%;
+    height: auto;
 }
 
 
@@ -40,7 +40,9 @@ article {
 table {
     border:1px solid black;
     border-collapse: collapse;
-    width: 49%;
+    width: 48%;
+    margin-right: 1%;
+    margin-top: 20px;
 }
 td {
     padding: 15px;
@@ -56,12 +58,15 @@ td.blue {
 }
 
 footer {
-    background-color: white;
+    background-color: black;
     padding: 10px;
-    float: left;
+    margin-top: 20px;
+    color: white;
 }
 
 footer a {
-    color:black;
+    color: white;
     text-decoration: none;
+    padding-right: 5px;
+    border-right: 2px solid white;
 }
