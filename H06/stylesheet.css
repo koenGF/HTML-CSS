@@ -9,3 +9,18 @@ input {
     float: right;
     width: 150px;
 }
+
+input.radio {
+    float: none;
+    width: auto;
+}
+
+div.radio {
+    width: 150px;
+    float: right;
+}
+
+select {
+    float: right;
+    width: 150px;
+}

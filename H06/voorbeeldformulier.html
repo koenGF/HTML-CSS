@@ -8,6 +8,7 @@
 <body>
 <h3>Voorbeeldformulier</h3>
 <form action="https://www.savatarian.com/html5/form.php" method="get">
+    <section>
     <div class="form-group">
         <label for="voornaam"> Voornaam: </label>
         <input type="text" name="voornaam" id="voornaam">
@@ -21,11 +22,31 @@
         <input type="text" name="achternaam" id="achternaam">
     </div>
     <div class="form-group">
-        <label for="geslacht"> Geslacht: </label>
-        <input type="radio", id="man" name="man" value="Man">
-        <label for="man">Man</label>
+        <label>Geslacht: </label>
+        <div class="radio">
+            <input class="radio" type="radio" name="geslacht" value="man">
+            &nbsp;Man
+            <input class="radio" type="radio" name="geslacht" value="vrouw">
+            &nbsp;Vrouw
+        </div>
     </div>
-
+    <div class="form-group">
+        <label for="kleur-ogen">Kleur ogen</label>
+        <select name="kleur-ogen" id="kleur-ogen">
+            <option value="groen">groen</option>
+            <option value="blauw">blauw</option>
+            <option value="bruin">bruin</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="geboortedatum">Geboortedatum</label>
+        <input type="date" id="geboortedatum" name="geboortedatum">
+    </div>
+    <div class="form-group">
+        <label for="omschrijving">Omschrijving</label>
+        <textarea name="omschrijving" id="omschrijving" cols="30" rows="10"></textarea>
+        </div>
+    </section>
 </form>
 </body>
 </html>

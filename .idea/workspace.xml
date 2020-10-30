@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="H06 WIP">
-      <change afterPath="$PROJECT_DIR$/H06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="changed link to H06 on homepage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H06/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/H06/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H06/voorbeeldformulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/H06/voorbeeldformulier.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,8 @@
       <workItem from="1603962945884" duration="5730000" />
       <workItem from="1603970862825" duration="6279000" />
       <workItem from="1603983192978" duration="2423000" />
-      <workItem from="1604049491562" duration="12499000" />
+      <workItem from="1604049491562" duration="12570000" />
+      <workItem from="1604064351291" duration="4324000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -184,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604063910427</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="changed link to H06 on homepage">
+      <created>1604064113395</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604064113395</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,7 +228,8 @@
     <MESSAGE value="deleted images from directory" />
     <MESSAGE value="added page breaks" />
     <MESSAGE value="H06 WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="H06 WIP" />
+    <MESSAGE value="changed link to H06 on homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed link to H06 on homepage" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604063182790">
@@ -234,9 +244,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604063912844">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604064115368">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604063912844" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604064115368" />
   </component>
 </project>
