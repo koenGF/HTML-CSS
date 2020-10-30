@@ -19,24 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="added some directories in advance">
-      <change afterPath="$PROJECT_DIR$/H05/burton.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/appel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/book.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/burton_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/burton_logo300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/bus.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/desk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/football.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H05/img/pythagoras.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H04/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H04/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H05/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="deleted images from directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +74,7 @@
       <workItem from="1603962945884" duration="5730000" />
       <workItem from="1603970862825" duration="6279000" />
       <workItem from="1603983192978" duration="2423000" />
-      <workItem from="1604049491562" duration="7054000" />
+      <workItem from="1604049491562" duration="7469000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -170,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603986241885</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="finished H05">
+      <created>1604057748399</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604057748399</updated>
+    </task>
+    <task id="LOCAL-00013" summary="deleted images from directory">
+      <created>1604057866140</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604057866140</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,7 +198,9 @@
     <MESSAGE value="H04 WIP" />
     <MESSAGE value="finished H04" />
     <MESSAGE value="added some directories in advance" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some directories in advance" />
+    <MESSAGE value="finished H05" />
+    <MESSAGE value="deleted images from directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted images from directory" />
   </component>
   <component name="WindowStateProjectService">
     <state x="646" y="330" key="Github.ShareDialog" timestamp="1603801387603">
@@ -212,9 +211,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1603986248091">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604057867744">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1603986248091" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604057867744" />
   </component>
 </project>
