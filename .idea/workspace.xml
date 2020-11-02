@@ -80,7 +80,8 @@
       <workItem from="1603983192978" duration="2423000" />
       <workItem from="1604049491562" duration="12570000" />
       <workItem from="1604064351291" duration="4944000" />
-      <workItem from="1604311150715" duration="3628000" />
+      <workItem from="1604311150715" duration="3661000" />
+      <workItem from="1604337771235" duration="3922000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604068727811</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="voorbeeldformulier WIP">
+      <created>1604314839093</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604314839093</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,9 +261,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604068731031">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604314841698">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604068731031" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604314841698" />
   </component>
 </project>

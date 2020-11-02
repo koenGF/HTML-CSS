@@ -2,11 +2,12 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="stylesheet.css">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
     <meta charset="UTF-8">
     <title>voorbeeldformulier</title>
 </head>
 
-<!-- html gaat maar tot helft van pagina. krijg buttons niet beneden met float. float doet overigens niks. verkeerde display? -->
+<!-- krijg section bottom niet goed -->
 <!-- ook: hoe zorg ik dat een label bij meerdere inputs hoort? krijg error bij meerdere en bij geen.-->
 
 <body>
@@ -66,7 +67,10 @@
     </div>
     </section>
     <section id="bottom">
-        buttons go brrrr
+        <div class="form-group">
+            <input type="submit" name="submit-knop">
+            <input type="reset" name="annuleer-knop">
+        </div>
     </section>
 </form>
 </body>
