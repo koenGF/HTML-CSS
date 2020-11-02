@@ -5,10 +5,14 @@
     <meta charset="UTF-8">
     <title>voorbeeldformulier</title>
 </head>
+
+<!-- html gaat maar tot helft van pagina. krijg buttons niet beneden met float. float doet overigens niks. verkeerde display? -->
+<!-- ook: hoe zorg ik dat een label bij meerdere inputs hoort? krijg error bij meerdere en bij geen.-->
+
 <body>
 <h3>Voorbeeldformulier</h3>
 <form action="https://www.savatarian.com/html5/form.php" method="get">
-    <section>
+    <section class="top">
     <div class="form-group">
         <label for="voornaam"> Voornaam: </label>
         <input type="text" name="voornaam" id="voornaam">
@@ -42,10 +46,27 @@
         <label for="geboortedatum">Geboortedatum</label>
         <input type="date" id="geboortedatum" name="geboortedatum">
     </div>
-    <div class="form-group">
+    <div id="textarea">
         <label for="omschrijving">Omschrijving</label>
-        <textarea name="omschrijving" id="omschrijving" cols="30" rows="10"></textarea>
+        <textarea name="omschrijving" id="omschrijving" cols="32" rows="7"></textarea>
+    </div>
+    </section>
+
+    <section class="top">
+    <div class="form-group">
+        <label>Lekker eten:</label>
+        <div class="radio">
+        <input class="radio" type="checkbox" name="lekker-eten" value="sperziebonen">
+        &nbsp;Sperziebonen <br>
+        <input class="radio" type="checkbox" name="lekke-eten" value="aardappelen">
+        &nbsp;Aardappelen <br>
+        <input class="radio" type="checkbox" name="lekker-eten" value="hamburger">
+        &nbsp;Hamburger
         </div>
+    </div>
+    </section>
+    <section id="bottom">
+        buttons go brrrr
     </section>
 </form>
 </body>

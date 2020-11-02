@@ -1,10 +1,30 @@
+* {
+    box-sizing:border-box;
+}
+
 body {
     font-family: Arial,sans-serif;
 }
+
+section.top {
+    width: 50%;
+    float: left;
+}
+section#botton {
+    height: 50%;
+    float: bottom;
+}
+
 div.form-group {
     width: 300px;
     padding: 10px;
 }
+
+div#textarea {
+    width: 400px;
+    padding: 10px;
+}
+
 input {
     float: right;
     width: 150px;
@@ -16,11 +36,15 @@ input.radio {
 }
 
 div.radio {
-    width: 150px;
     float: right;
+    width: 150px;
 }
 
 select {
     float: right;
     width: 150px;
+}
+
+textarea {
+    float: right;
 }
