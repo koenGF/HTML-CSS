@@ -19,10 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="voorbeeldformulier WIP">
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="voorbeeldformulier done-ish">
+      <change afterPath="$PROJECT_DIR$/H07/img/drums.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H07/img/gitaar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H07/img/saxofoon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H07/img/trompet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H07/img/truemusic-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H07/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H06/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/H06/stylesheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/H06/voorbeeldformulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/H06/voorbeeldformulier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H07/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -81,7 +87,10 @@
       <workItem from="1604049491562" duration="12570000" />
       <workItem from="1604064351291" duration="4944000" />
       <workItem from="1604311150715" duration="3661000" />
-      <workItem from="1604337771235" duration="3922000" />
+      <workItem from="1604337771235" duration="4019000" />
+      <workItem from="1604519164411" duration="4000" />
+      <workItem from="1604576193010" duration="1859000" />
+      <workItem from="1605010678378" duration="6700000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -209,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604314839093</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="voorbeeldformulier done-ish">
+      <created>1604341835472</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604341835472</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +262,8 @@
     <MESSAGE value="H06 WIP" />
     <MESSAGE value="changed link to H06 on homepage" />
     <MESSAGE value="voorbeeldformulier WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="voorbeeldformulier WIP" />
+    <MESSAGE value="voorbeeldformulier done-ish" />
+    <option name="LAST_COMMIT_MESSAGE" value="voorbeeldformulier done-ish" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604063182790">
@@ -261,9 +278,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604314841698">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604341837737">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604314841698" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1604341837737" />
   </component>
 </project>
