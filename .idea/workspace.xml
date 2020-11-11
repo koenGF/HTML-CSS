@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="H7 wip">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/H07/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/H07/stylesheet.css" afterDir="false" />
-    </list>
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="H7 done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +81,7 @@
       <workItem from="1604519164411" duration="4000" />
       <workItem from="1604576193010" duration="1859000" />
       <workItem from="1605010678378" duration="9491000" />
-      <workItem from="1605089666444" duration="3611000" />
+      <workItem from="1605089666444" duration="3640000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -227,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605019718334</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="H7 done">
+      <created>1605093316062</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605093316062</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -266,7 +269,8 @@
     <MESSAGE value="voorbeeldformulier WIP" />
     <MESSAGE value="voorbeeldformulier done-ish" />
     <MESSAGE value="H7 wip" />
-    <option name="LAST_COMMIT_MESSAGE" value="H7 wip" />
+    <MESSAGE value="H7 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="H7 done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604063182790">
@@ -281,9 +285,9 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="577" y="137" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1603801399641" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605019721425">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1605093319547">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605019721425" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1605093319547" />
   </component>
 </project>
