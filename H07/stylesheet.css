@@ -1,9 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
-    background-color: rgb(250, 241, 234);
     font-family: 'Raleway', sans-serif;
     padding: 0;
     margin: 0;
 }
+
+div#wrapper {
+    background-color: rgb(250, 241, 234);
+}
+
+h3 {
+    color: rgb(220,106,94);
+    font-size: 22px;
+    font-weight: 600;
+}
+
 
 header {
     background-color: rgb(192,240,223);
@@ -34,7 +48,7 @@ li a {
 @media all and (min-width: 550px) {
     ul {
         background-color: rgb(128,128,128);
-        border: 1px solid white;
+        border-top: 1px solid white;
     }
     li {
         display: inline-block;
@@ -42,14 +56,12 @@ li a {
     }
 }
 
-h3 {
-    color: rgb(220,106,94);
-    font-size: 22px;
-    font-weight: 600;
-}
-
 section#news {
     padding: 20px;
+}
+
+img {
+    width: 100%;
 }
 
 section, footer {
@@ -67,13 +79,44 @@ section, footer {
     }
 }
 
+@media all and (min-width: 920px) {
+    section#news {
+        width: 30%;
+        float: left;
+    }
+    section#instruments {
+        width: 70%;
+        float: right;
+    }
+    article {
+        display: inline-block;
+        width: 48%;
+        margin-right: 20px;
+    }
+
+    article:nth-child(even) {
+        margin-right: 0;
+    }
+}
+
+@media all and (min-width: 1200px) {
+    div#wrapper {
+        width: 1200px;
+        margin: auto;
+    }
+}
+
 footer {
     background-color: rgb(128,128,128);
     color: white;
+    clear: both;
 }
 
 footer h3 {
     color: white;
+    margin-top: 0;
 }
 
-
+footer p {
+    margin-bottom: 0;
+}
