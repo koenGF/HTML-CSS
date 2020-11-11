@@ -79,7 +79,7 @@ section, footer {
     }
 }
 
-@media all and (min-width: 920px) {
+@media all and (min-width: 960px) {
     section#news {
         width: 30%;
         float: left;
