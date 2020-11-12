@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="fixed typo" />
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="fixed typo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +85,8 @@
       <workItem from="1605010678378" duration="9491000" />
       <workItem from="1605089666444" duration="3640000" />
       <workItem from="1605094065779" duration="140000" />
+      <workItem from="1605099102553" duration="640000" />
+      <workItem from="1605180802765" duration="1467000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
