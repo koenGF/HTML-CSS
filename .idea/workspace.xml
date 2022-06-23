@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="added php link">
-      <change beforePath="$PROJECT_DIR$/H03/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/H03/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="added php link" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +99,7 @@
       <workItem from="1622289820384" duration="723000" />
       <workItem from="1622543920179" duration="1276000" />
       <workItem from="1630580529755" duration="5326000" />
+      <workItem from="1630654373189" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
