@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="added php link" />
+    <list default="true" id="f831e7bf-47e8-4713-91f7-6e6d51952287" name="Default Changelist" comment="added fourpastsix HTML">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1jScNNvP0EBvGoaFPA41qnwF5Ab" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -100,6 +105,7 @@
       <workItem from="1622543920179" duration="1276000" />
       <workItem from="1630580529755" duration="5326000" />
       <workItem from="1630654373189" duration="8000" />
+      <workItem from="1655977901638" duration="784000" />
     </task>
     <task id="LOCAL-00001" summary="moved files, added link to chapter 1 in index.html">
       <created>1603802070155</created>
@@ -276,7 +282,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630587668669</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="added fourpastsix HTML">
+      <created>1655978175342</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1655978175342</updated>
+    </task>
+    <task id="LOCAL-00027" summary="added fourpastsix HTML">
+      <created>1655978238364</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1655978238364</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,7 +312,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -319,6 +338,7 @@
     <MESSAGE value="fixed typo" />
     <MESSAGE value="link to javascript" />
     <MESSAGE value="added php link" />
-    <option name="LAST_COMMIT_MESSAGE" value="added php link" />
+    <MESSAGE value="added fourpastsix HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="added fourpastsix HTML" />
   </component>
 </project>
